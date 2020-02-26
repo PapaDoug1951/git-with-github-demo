@@ -4,3 +4,4 @@ User-agent: *
 Disallow:
 # This line has been added to demonstrate the use of the GIT PULL command
 # This line has been added to demonstrate the use of the GIT PUSH command
+# This line has been added to demonstrate the use of SSH protocol
